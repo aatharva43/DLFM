@@ -1,1 +1,2 @@
-Please access the different branches to access the code for DLFM and simulations for Fig 1 and Fig 5
+# INSTRUCTIONS
+Please access the different branches on the top right to access the code for the paper titled **"Deep Learning Reveals How Cells Pull, Buckle, and Navigate Fibrous Environments"**.
